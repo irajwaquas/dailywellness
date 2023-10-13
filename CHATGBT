@@ -34,7 +34,7 @@
 
     <!-- Journal Prompts Section -->
     <section id="journal-prompts">
-        <h2>Journal Prompts</h2>
+        <h3>&#x2661Journal Prompts&#x2661</h3>
 
         <main>
             <!-- Your main content goes here -->
@@ -83,7 +83,7 @@
 
     <!-- Guided Meditations Section -->
 <section id="guided-meditations">
-    <h3>Guided Meditations</h3>
+    <h3>&#x2661Guided Meditations&#x2661</h3>
     <p>Find peace and relaxation with these guided meditations by "Great Meditation":</p>
     <ul>
         <li>
@@ -102,6 +102,7 @@
             <h2>Session 4</h2>
             <iframe width="300" height="200" src="https://www.youtube.com/embed/GTdEJwVOxg0" frameborder="0" allowfullscreen></iframe>
         </li>
+
         <!-- Add more meditation sessions with embedded YouTube iframes as needed -->
     </ul>
 </section>
@@ -111,7 +112,7 @@
 
     <!-- Counselors Section -->
     <section id="counselors">
-        <h2>Access to Counselors</h2>
+        <h3>&#x2661;Access to Counselors&#x2661;</h3>
         <p>If you need professional support, our counselors are here to help:</p>
         <ul>
             <li><a href="counselor1.html">Counselor 1</a></li>
@@ -121,9 +122,12 @@
     </section>
 
     <!-- Footer -->
+
     <footer>
         <p>&copy; 2023 Daily Wellness</p>
     </footer>
+    <div id="flower-image"></div>
     <script src="script.js"></script>
+
 </body>
 </html>
